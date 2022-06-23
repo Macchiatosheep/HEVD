@@ -1,0 +1,44 @@
+﻿  TriggerBufferOverflowStack.cpp
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(8): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(9): error C2065: “pushad”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(9): error C2065: “保存各寄存器数据”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2065: “start”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2146: 语法错误: 缺少“;”(在标识符“of”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2065: “of”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2146: 语法错误: 缺少“;”(在标识符“Token”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2065: “Token”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2146: 语法错误: 缺少“;”(在标识符“Stealing”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2065: “Stealing”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(12): error C2146: 语法错误: 缺少“;”(在标识符“Stub”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(10): error C2065: “Stub”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(12): error C2065: “eax”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(12): error C2065: “eax设置为0”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2065: “mov”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2065: “eax”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2065: “fs”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2059: 语法错误:“:”
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2065: “获取”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2146: 语法错误: 缺少“;”(在标识符“nt”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2065: “nt”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2143: 语法错误: 缺少“;”(在“!”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(13): error C2065: “_KPCR”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(14): error C2146: 语法错误: 缺少“;”(在标识符“mov”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(14): error C2065: “mov”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(14): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(14): error C2065: “eax”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(14): error C2143: 语法错误: 缺少“]”(在“+”的前面)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(14): error C3481: “eax”: 未找到 lambda 捕获变量
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(14): error C3260: “+”: 跳过 lambda 主体之前的意外标记
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(19): error C2041: 非法的数字“8”(用于基“2”)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(20): error C2041: 非法的数字“8”(用于基“2”)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(21): error C2041: 非法的数字“4”(用于基“2”)
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(56): warning C4311: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”的指针截断
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(56): warning C4302: “类型强制转换”: 从“void (__cdecl *)(void)”到“DWORD”截断
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(62): error C2065: “argv”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(69): error C2065: “argv”: 未声明的标识符
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(69): error C2660: “CreateProcessA”: 函数不接受 9 个参数
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\processthreadsapi.h(361): note: 参见“CreateProcessA”的声明
+d:\vs_code\hevd\triggerbufferoverflowstack\triggerbufferoverflowstack\triggerbufferoverflowstack.cpp(75): fatal error C1004: 发现意外的文件尾
