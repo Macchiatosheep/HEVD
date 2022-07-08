@@ -1,0 +1,5 @@
+﻿  Assembling Token.asm...
+  正在生成代码
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TriggerArbitraryWrite64.vcxproj -> D:\vs_code\HEVD\TriggerArbitraryWrite\x64\Release\TriggerArbitraryWrite64.exe

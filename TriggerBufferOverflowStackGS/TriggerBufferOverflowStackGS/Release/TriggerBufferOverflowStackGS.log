@@ -1,0 +1,8 @@
+﻿  TriggerBufferOverflowStackGS.cpp
+d:\vs_code\hevd\triggerbufferoverflowstackgs\triggerbufferoverflowstackgs\triggerbufferoverflowstackgs.cpp(39): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TriggerBufferOverflowStackGS.vcxproj -> D:\vs_code\HEVD\TriggerBufferOverflowStackGS\Release\TriggerBufferOverflowStackGS.exe

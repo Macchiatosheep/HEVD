@@ -1,0 +1,12 @@
+﻿  TriggerArbitraryWrite.cpp
+d:\vs_code\hevd\triggerarbitrarywrite\triggerarbitrarywrite\triggerarbitrarywrite.cpp(40): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+  d:\vs_code\hevd\triggerarbitrarywrite\triggerarbitrarywrite\triggerarbitrarywrite.cpp(40): note: 默认构造函数或 copy/move 赋值运算符将忽略此成员
+d:\vs_code\hevd\triggerarbitrarywrite\triggerarbitrarywrite\triggerarbitrarywrite.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+d:\vs_code\hevd\triggerarbitrarywrite\triggerarbitrarywrite\triggerarbitrarywrite.cpp(153): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+d:\vs_code\hevd\triggerarbitrarywrite\triggerarbitrarywrite\triggerarbitrarywrite.cpp(165): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+  正在生成代码
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TriggerArbitraryWrite.vcxproj -> D:\vs_code\HEVD\TriggerArbitraryWrite\Release\TriggerArbitraryWrite.exe
